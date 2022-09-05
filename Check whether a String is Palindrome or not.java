@@ -6,12 +6,12 @@ Given a string S, check if it is palindrome or not.
 Example 1:
 
 Input: S = "abba"
-Output: 1
+Output: true
 Explanation: S is a palindrome
 Example 2:
 
 Input: S = "abc" 
-Output: 0
+Output: false
 Explanation: S is not a palindrome
 
 */
